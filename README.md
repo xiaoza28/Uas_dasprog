@@ -105,4 +105,4 @@
 	}
 
 ## Output
- <img src="output uas.png"/>
+ <img src="Output uas.png"/>
