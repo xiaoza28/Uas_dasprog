@@ -105,4 +105,4 @@
 	}
 
 ## Output
-<img src = "Kuliah Semester 1/output uas.png">
+ <img src="output uas.png"/>
